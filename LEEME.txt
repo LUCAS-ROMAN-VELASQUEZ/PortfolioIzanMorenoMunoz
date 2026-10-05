@@ -1,0 +1,9 @@
+PORTFOLIO - Ingeniería de Materiales
+Abrir: doble clic en index.html (funciona en cualquier navegador, sin instalar nada).
+Publicar: arrastrar esta carpeta a Netlify Drop, o subirla a GitHub Pages / cualquier hosting.
+
+PENDIENTE ANTES DE PUBLICAR (index.html, sección #contacto):
+- Cambiar tu-correo@ejemplo.com por el correo real (2 sitios: enlace y texto).
+- Cambiar linkedin.com/in/tu-perfil por el perfil real (2 sitios).
+- Opcional: añadir su nombre en el <title> y en el logo (IM.).
+Estilos: css/styles.css (colores en :root al principio). Foto: assets/foto-perfil.jpg
